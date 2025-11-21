@@ -54,8 +54,9 @@ Screenshot placeholder (where you will insert images)
 🔐 SECTION A: AUTHENTICATION PAGES
 1. Login Page
 
-📷 Screenshot Placeholder
-Insert screenshot of Login page (email, password, login button).
+
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/5b45a3b7-68af-4c09-8293-3d6bfc561ad0" />
+
 
 Purpose
 
