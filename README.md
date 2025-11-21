@@ -49,7 +49,7 @@ Features
 
 Who can access
 
-Screenshot placeholder (where you will insert images)
+
 
 🔐 SECTION A: AUTHENTICATION PAGES
 1. Login Page
@@ -78,8 +78,8 @@ Access
 
 2. Register Page
 
-📷 Screenshot Placeholder
-Insert screenshot of Register page with name, email, password, department, regulation fields.
+<img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/e94e32b1-6977-4b9e-8bd2-3f931c957f0d" />
+
 
 Purpose
 
@@ -104,8 +104,8 @@ Access
 🎓 SECTION B: STUDENT MODULE
 3. Student Dashboard
 
-📷 Screenshot Placeholder
-Insert screenshot showing profile details, recent GPA, quick links.
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/6a2772c0-5384-43e5-91ae-1450659ff849" />
+
 
 Purpose
 
@@ -127,8 +127,10 @@ Access
 
 4. GPA Calculator Page
 
-📷 Screenshot Placeholder
-Insert screenshot showing subject list, dropdowns for grades, GPA result.
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/a0727cfe-7c66-43fc-9b1d-4e5e7b2f7ef1" />
+
+<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/0dce9036-09b3-43d8-9542-f2c986247c9e" />
+
 
 Purpose
 
@@ -152,8 +154,9 @@ Access
 
 5. CGPA Calculator Page
 
-📷 Screenshot Placeholder
-Insert screenshot showing selectable completed semesters & CGPA result.
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/e4a3576e-4f2c-4d98-bfa0-6114643d81b2" />
+
+
 
 Purpose
 
@@ -175,8 +178,8 @@ Access
 
 6. GPA History Page
 
-📷 Screenshot Placeholder
-Insert screenshot of GPA history table/list.
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/c90d3470-311b-4bf8-a4ed-0af3f596fb8a" />
+
 
 Purpose
 
@@ -196,8 +199,8 @@ Access
 
 7. Semester Report (Frontend PDF Page)
 
-📷 Screenshot Placeholder
-Insert screenshot of PDF preview container or sample report.
+<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/369f1cb2-fab2-464f-8217-ec8a1f54e233" />
+
 
 Purpose
 
@@ -217,8 +220,9 @@ Access
 
 8. Marksheet Download (Backend PDF)
 
-📷 Screenshot Placeholder
-Insert screenshot of “Download Marksheet” button or PDF generated.
+<img width="988" height="792" alt="image" src="https://github.com/user-attachments/assets/4a984bc3-4ef2-4ecc-9459-d2a9275b53ae" />
+
+
 
 Purpose
 
@@ -239,8 +243,8 @@ Access
 🛠 SECTION C: ADMIN MODULE
 9. Admin Dashboard
 
-📷 Screenshot Placeholder
-Insert screenshot showing statistics boxes (students, dept, regulations, reports).
+<img width="1920" height="721" alt="image" src="https://github.com/user-attachments/assets/7acb915f-4e88-4332-84fc-b30c615d54ac" />
+
 
 Purpose
 
@@ -262,8 +266,27 @@ Access
 
 10. Student Management Page
 
-📷 Screenshot Placeholder
-Insert screenshot of student table and Create Student form.
+<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/6e69f2a7-00f0-4564-af77-9b4ddc1e3ab3" />
+
+<img width="1099" height="759" alt="image" src="https://github.com/user-attachments/assets/5bbffeea-d81e-4e79-9f1a-e6b6b6270b21" />
+
+View in
+
+<img width="1920" height="887" alt="image" src="https://github.com/user-attachments/assets/94d84c0a-edf3-4551-9e26-638ea9ab8b24" />
+
+<img width="669" height="335" alt="image" src="https://github.com/user-attachments/assets/5a896376-701e-4633-9e4d-6716123e02f9" />
+
+<img width="683" height="590" alt="image" src="https://github.com/user-attachments/assets/8be75264-1463-438d-9d7d-5840c2d1d15b" />
+
+Downloade PDF 
+
+<img width="490" height="543" alt="image" src="https://github.com/user-attachments/assets/9ed44ff8-c00b-4d86-bf59-bbdade3d6f9f" />
+
+
+
+
+
+
 
 Purpose
 
@@ -285,8 +308,7 @@ Access
 
 11. Curriculum Management Page
 
-📷 Screenshot Placeholder
-Insert screenshot showing regulation/department/semester/subject tabs.
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/6977b271-49b3-48fe-b957-053440b926b8" />
 
 Purpose
 
@@ -316,6 +338,13 @@ Access
 
 📷 Screenshot Placeholder
 Insert screenshot of regulation list & Add Regulation form.
+<img width="1720" height="171" alt="image" src="https://github.com/user-attachments/assets/9e857cd7-f2f7-4166-b0b9-784a01823059" />
+
+<img width="487" height="207" alt="image" src="https://github.com/user-attachments/assets/d6d8a82f-ffd9-4dcf-bd91-a933ea3a33e8" />
+
+<img width="489" height="224" alt="image" src="https://github.com/user-attachments/assets/bbc59627-60bd-4d5f-b74b-8ff78d72f52c" />
+
+
 
 Purpose
 
@@ -331,8 +360,14 @@ Delete regulation
 
 13. Department Management Section
 
-📷 Screenshot Placeholder
-Insert screenshot of department table & create/update forms.
+<img width="1920" height="309" alt="image" src="https://github.com/user-attachments/assets/ef3e0a4f-a98f-46d2-8d6d-3e689fc1fab1" />
+
+<img width="497" height="289" alt="image" src="https://github.com/user-attachments/assets/dd03c5b9-c214-4c98-8a9c-da65ac69de18" />
+
+<img width="491" height="281" alt="image" src="https://github.com/user-attachments/assets/8020a88d-f52c-49df-99cb-1fe4193a3255" />
+
+
+
 
 Purpose
 
@@ -350,8 +385,14 @@ Update or delete
 
 14. Semester Management Section
 
-📷 Screenshot Placeholder
-Insert screenshot showing semester list for chosen department & regulation.
+<img width="1920" height="321" alt="image" src="https://github.com/user-attachments/assets/1d4e7396-f2bb-4e2e-8d08-ff9e56d893f7" />
+
+<img width="500" height="303" alt="image" src="https://github.com/user-attachments/assets/e95afb6b-9c77-4b6c-8780-703e95920206" />
+
+<img width="507" height="304" alt="image" src="https://github.com/user-attachments/assets/b290646e-7821-4974-875c-892f50009129" />
+
+
+
 
 Purpose
 
@@ -367,8 +408,14 @@ Set mandatory/elective counts
 
 15. Subject Management Section
 
-📷 Screenshot Placeholder
-Insert screenshot showing subject list & add subject form.
+<img width="1920" height="870" alt="image" src="https://github.com/user-attachments/assets/d9ea9a58-49e7-4e23-bf6b-0289cac563f8" />
+
+<img width="485" height="240" alt="image" src="https://github.com/user-attachments/assets/cd05c30a-334f-442c-981b-81cc3b1ab9c8" />
+
+<img width="487" height="191" alt="image" src="https://github.com/user-attachments/assets/72f82362-9734-4f91-a968-bebce49e64d5" />
+
+
+
 
 Purpose
 
@@ -384,8 +431,8 @@ Delete subject
 
 16. Reports Page
 
-📷 Screenshot Placeholder
-Insert screenshot showing list of stored reports & download buttons.
+<img width="1920" height="561" alt="image" src="https://github.com/user-attachments/assets/9d8c09b7-5b24-41e7-a191-fd24eda16fc0" />
+
 
 Purpose
 
@@ -401,8 +448,8 @@ View creation date
 
 17. Bulk Import Page
 
-📷 Screenshot Placeholder
-Insert screenshot showing file upload fields or CSV import UI.
+<img width="649" height="523" alt="image" src="https://github.com/user-attachments/assets/8177f545-e4b3-458e-b758-1aa38f0e3efb" />
+
 
 Purpose
 
@@ -471,6 +518,9 @@ reports
 bulk import
 
 💾 6. Database Modules
+
+<img width="724" height="1005" alt="GPA_CalC" src="https://github.com/user-attachments/assets/28812200-6643-4e9d-910b-3d6945230eed" />
+
 
 Tables include:
 
