@@ -3,6 +3,22 @@
 Web page link
 https://gradetrack-pro.vercel.app/
 
+🚀 Deployed Services Used
++-------------+----------------+-------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+
+| Layer       | Service Used   | Plan                                                                                                                    | Validity                                                  |
++-------------+----------------+-------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+
+| Database    | Clever Cloud   | MySQL Database → Free Dev MySQL (≈10 MB storage)                                                                        | No expiry — stays active with occasional login            |
+| (MySQL)     |                | Repository Used: N/A (Database only)                                                                                    |                                                           |
++-------------+----------------+-------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+
+| Backend     | Render.com     | Spring Boot → Free Web Service (512 MB RAM, auto-sleep)                                                                 | Free forever — free hours renew monthly                   |
+| (SpringBoot)|                | Storage: No persistent disk; ephemeral storage only                                                                     |                                                           |
+|             |                | GitHub Repo: https://github.com/Sivaprakasamsiva/GPA_CGPACALC.git                                                       |                                                           |
++-------------+----------------+-------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+
+| Frontend    | Vercel         | React → Hobby (Free Plan)                                                                                               | Free forever — usage limits reset monthly                 |
+| (React)     |                | Storage: 23 GB build disk, 100 MB per deployment, 250 MB serverless function limit                                      |                                                           |
+|             |                | GitHub Repo: https://github.com/Sivaprakasamsiva/gpa-calculator-frontend.git                                            |                                                           |
++-------------+----------------+-------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+
+
 
 📝 1. Introduction
 
